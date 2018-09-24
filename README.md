@@ -26,5 +26,8 @@ Planejamento:
 - 14.Realizar a construção do trabalho em vídeo (individual)
 - 15.Revisar o conteúdo do trabalho em vídeo (grupo)
 
-* Link para o texto principal: https://docs.google.com/document/d/1UMtIk5ZbPptA5emstl9JsiV7pkIkvFpMrbqYlQLNgE8/edit?usp=sharing
-* Link para os slides: https://docs.google.com/presentation/d/15D7eSTQcsQgdb6dA348V4glK37rL0t7VvQYr0Ekr6k8/edit?usp=sharing
+* Link para o texto principal: 
+ https://docs.google.com/document/d/1UMtIk5ZbPptA5emstl9JsiV7pkIkvFpMrbqYlQLNgE8/edit?usp=sharing
+ 
+* Link para os slides: 
+ https://docs.google.com/presentation/d/15D7eSTQcsQgdb6dA348V4glK37rL0t7VvQYr0Ekr6k8/edit?usp=sharing
