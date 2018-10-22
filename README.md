@@ -18,13 +18,13 @@ Planejamento:
 - 6.Refinar os pontos relevantes pertinentes segundo consenso (grupo) - FEITO
 - 7.Revisão do planejamento já executado (grupo) - FEITO
 - 8.Definir a estrutura do trabalho textual (grupo) - FEITO
-- 9.Executar a escrita do trabalho textual (individual) - FAZENDO
-- 10.Revisar o conteúdo do trabalho textual (grupo) - FAZENDO
-- 11.Realizar a construção dos slides baseados no trabalho textual (individual) - FAZENDO
-- 12.Revisar o conteúdo dos slides (grupo) - FAZENDO
-- 13.Definir a estrutura e conteúdo do trabalho em vídeo (grupo)
-- 14.Realizar a construção do trabalho em vídeo (individual)
-- 15.Revisar o conteúdo do trabalho em vídeo (grupo)
+- 9.Executar a escrita do trabalho textual (individual) - FEITO
+- 10.Revisar o conteúdo do trabalho textual (grupo) - FEITO
+- 11.Realizar a construção dos slides baseados no trabalho textual (individual) - FEITO
+- 12.Revisar o conteúdo dos slides (grupo) - FEITO
+- 13.Definir a estrutura e conteúdo do trabalho em vídeo (grupo) - FEITO
+- 14.Realizar a construção do trabalho em vídeo (individual) - FEITO
+- 15.Revisar o conteúdo do trabalho em vídeo (grupo) - FEITO
 
 * Link para o texto principal: 
  https://docs.google.com/document/d/1UMtIk5ZbPptA5emstl9JsiV7pkIkvFpMrbqYlQLNgE8/edit?usp=sharing
