@@ -1,4 +1,4 @@
-# metodo
+﻿# metodo
 
 *Projeto Orientado a Objetos*
 
@@ -31,3 +31,6 @@ Planejamento:
  
 * Link para os slides: 
 <br/> https://docs.google.com/presentation/d/15D7eSTQcsQgdb6dA348V4glK37rL0t7VvQYr0Ekr6k8/edit?usp=sharing
+
+* Link para o vídeo da apresentação:
+https://youtu.be/oWo-9rh5OFg
